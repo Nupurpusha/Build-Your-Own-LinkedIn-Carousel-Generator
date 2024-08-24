@@ -74,7 +74,8 @@ If you'd like to contribute, please follow these steps:
 
 ## License
 
-📜 **This project is licensed under the MIT License** - see the [LICENSE](License) file for details.
+📜This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](https://github.com/Nupurpusha/Build-Your-Own-Blogging-Software/issues/blob/main/LICENSE) file for more details.
+
 
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 

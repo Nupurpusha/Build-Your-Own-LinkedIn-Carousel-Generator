@@ -21,5 +21,10 @@ Ready to start? Check out the [Installation Guide](#installation) to get going! 
 
 ## Installation Guide 
 
-<p align="left"><img src="https://github.com/Nupurpusha/Build-Your-Own-LinkedIn-Carousel-Generator/blob/main/carbon%20(1).png" >
+<p align="left">
+  <img src="https://github.com/Nupurpusha/Build-Your-Own-LinkedIn-Carousel-Generator/blob/main/carbon%20(1).png" 
+       alt="LinkedIn Carousel Generator" 
+       style="float: left; height: 200px; width: 300px; margin-right: 10px;" />
+</p>
+
 

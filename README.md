@@ -1,4 +1,3 @@
-# **Build Your Own LinkedIn Carousel Generator**
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="max-width: 60%;">
     <h1><strong>Build Your Own LinkedIn Carousel Generator</strong></h1>

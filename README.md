@@ -39,5 +39,11 @@ This project is designed to be flexible, allowing for both frontend-only and ful
 <img src="https://img.shields.io/badge/React-%E2%9C%94-brightgreen?style=for-the-badge&logo=react&logoColor=white" alt="React">
 
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  Handles the GUI, slide creation, and real-time preview.
+
+- **Backend**
+   <img src="https://img.shields.io/badge/Flask-1.1.2-black?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+    <img src="https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  
 
 

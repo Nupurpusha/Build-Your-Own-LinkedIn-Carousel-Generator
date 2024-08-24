@@ -36,7 +36,7 @@ Ready to start? Check out the [Installation Guide](#installation-guide) to get g
        alt="LinkedIn Carousel Generator" 
        style="float: left; height: 400px; width: 700px; margin-right: 10px;" /></p>
        
-To run the application,open your web browser.
+To run the application, open your web browser.
 
 For the frontend version, navigate to http://localhost:5000. 
 

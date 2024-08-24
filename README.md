@@ -5,7 +5,7 @@
   </div>
  </div>
 
-<img align="right" src="https://github.com/Nupurpusha/Build-Your-Own-LinkedIn-Carousel-Generator/blob/main/Untitled%20design2.gif" height="300" width="400" alt="Linkedin-Corousel Generator">
+<img align="right" src="https://github.com/Nupurpusha/Build-Your-Own-LinkedIn-Carousel-Generator/blob/main/Untitled%20design2.gif" height="350" width="500" alt="Linkedin-Corousel Generator">
 
  
 ---

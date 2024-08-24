@@ -21,5 +21,5 @@ Ready to start? Check out the [Installation Guide](#installation) to get going! 
 
 ## Installation Guide 
 
-<img src="https://github.com/Nupurpusha/Build-Your-Own-LinkedIn-Carousel-Generator/blob/main/carbon%20(1).png">
+<p align="left"><img src="https://github.com/Nupurpusha/Build-Your-Own-LinkedIn-Carousel-Generator/blob/main/carbon%20(1).png" >
 

@@ -13,7 +13,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator?style=flat-square) ![Stars](https://img.shields.io/github/stars/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator?style=social) ![License](https://img.shields.io/github/license/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator?style=flat-square)
 
 
-<img align="right" src="https://github.com/Nupurpusha/Build-Your-Own-LinkedIn-Carousel-Generator/blob/main/Untitled%20design2.gif" height="350" width="500" alt="Linkedin-Corousel Generator">
+<img align="right" src="https://github.com/Nupurpusha/Build-Your-Own-LinkedIn-Carousel-Generator/blob/main/Untitled%20design2.gif" height="350" width="450" alt="Linkedin-Corousel Generator">
 
 
 - **🖼️ Real-time Slide Preview:** Instantly see updates as you type. 

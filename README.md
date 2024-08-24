@@ -30,6 +30,8 @@
 
 Ready to start? Check out the [Installation Guide](#installation-guide) to get going! 🚀
 
+---
+
 ## Installation Guide 
 <p align="left">
   <img src="https://github.com/Nupurpusha/Build-Your-Own-LinkedIn-Carousel-Generator/blob/main/carbon%20(1).png" 
@@ -41,6 +43,8 @@ To run the application,open your web browser.
 For the frontend version, navigate to http://localhost:5000. 
 
 For the backend API, navigate to http://localhost:5000.
+
+---
 
 ## Architecture
 This project is designed to be flexible, allowing for both frontend-only and full-stack implementations. Key components include:
@@ -65,11 +69,15 @@ This project is designed to be flexible, allowing for both frontend-only and ful
 <img src="https://img.shields.io/badge/Library-ReportLab-%233B3A39?style=for-the-badge&logo=python&logoColor=white" alt="ReportLab">
 Utilizes libraries such as jsPDF (JavaScript) or ReportLab (Python) to create the final document.
 
+---
+
 ## Future Enhancements
 - 📄 **Support for More Formats**: Add functionality to export carousels as PowerPoint (PPT/PPTX) or Word documents (DOC/DOCX).
 - 🔗 **LinkedIn API Integration**: Automate posting directly to LinkedIn.
 - 🖼️ **Templates**: Create and save reusable templates for different carousel styles.
 - 🤝 **Collaboration**: Enable multiple users to work on the same carousel project.
+
+---
 
 ## Contributing
 
@@ -83,12 +91,16 @@ If you'd like to contribute, please follow these steps:
 4. 🧪 **Test** your changes.
 5. 📤 **Submit a pull request** with a clear description of your changes.
 
+---
+
 ## License
 
 📜This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](https://github.com/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator/issues/blob/main/LICENSE) file for more details.
 
 
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+---
 
 
 

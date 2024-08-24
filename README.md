@@ -1,6 +1,6 @@
 # **Build Your Own LinkedIn Carousel Generator**
 <p align="left">
-  <img src="https://github.com/Nupurpusha/Build-Your-Own-LinkedIn-Carousel-Generator/blob/main/carbon%20(1).png" 
+  <img src="https://github.com/Nupurpusha/Build-Your-Own-LinkedIn-Carousel-Generator/blob/main/animated.gif" 
        alt="LinkedIn Carousel Generator" 
        style="float: left; height: 400px; width: 700px; margin-right: 10px;" /></p>
 

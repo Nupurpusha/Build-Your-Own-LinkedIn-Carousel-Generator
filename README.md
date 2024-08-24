@@ -65,6 +65,7 @@ This project is designed to be flexible, allowing for both frontend-only and ful
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
 </a>
+
 Handles the GUI, slide creation, and real-time preview.
 
 - ### Backend:
@@ -76,6 +77,7 @@ Handles the GUI, slide creation, and real-time preview.
 <a href="https://www.python.org/downloads/" target="_blank">
   <img src="https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </a>
+
 Manages file uploads, processes slides, and handles PDF generation.
 
 - ### PDF Generation:
@@ -87,6 +89,7 @@ Manages file uploads, processes slides, and handles PDF generation.
 <a href="https://www.reportlab.com/" target="_blank">
   <img src="https://img.shields.io/badge/Library-ReportLab-%233B3A39?style=for-the-badge&logo=python&logoColor=white" alt="ReportLab">
 </a>
+
 Utilizes libraries such as jsPDF (JavaScript) or ReportLab (Python) to create the final document.
 
 ---

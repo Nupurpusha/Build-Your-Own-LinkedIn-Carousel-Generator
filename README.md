@@ -27,8 +27,6 @@ Ready to start? Check out the [Installation Guide](#installation) to get going! 
        
 Open your web browser,for the frontend version navigate to http://localhost:5000. 
 
-For the frontend API, navigate to http://localhost:5000.
-
 For the backend API, navigate to http://localhost:5000.
 
 

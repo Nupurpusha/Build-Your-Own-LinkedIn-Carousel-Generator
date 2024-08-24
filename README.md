@@ -60,5 +60,19 @@ Utilizes libraries such as jsPDF (JavaScript) or ReportLab (Python) to create th
 - 🖼️ **Templates**: Create and save reusable templates for different carousel styles.
 - 🤝 **Collaboration**: Enable multiple users to work on the same carousel project.
 
+## Contributing
+
+🎉 **Contributions are welcome!** 🎉
+
+If you'd like to contribute, please follow these steps:
+
+1. 🍴 **Fork** this repository.
+2. 🔄 **Create a new branch** for your changes.
+3. 🛠️ **Implement your feature** or fix the bug.
+4. 🧪 **Test** your changes.
+5. 📤 **Submit a pull request** with a clear description of your changes.
+
+
+
 
 

@@ -58,12 +58,10 @@ This project is designed to be flexible, allowing for both frontend-only and ful
 
 - ### Frontend:
 
-<!-- React Badge -->
 <a href="https://reactjs.org/" target="_blank">
   <img src="https://img.shields.io/badge/React-%E2%9C%94-brightgreen?style=for-the-badge&logo=react&logoColor=white" alt="React">
 </a>
 
-<!-- JavaScript Badge -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
 </a>
@@ -71,12 +69,10 @@ Handles the GUI, slide creation, and real-time preview.
 
 - ### Backend:
 
-<!-- Flask Badge -->
 <a href="https://flask.palletsprojects.com/en/latest/" target="_blank">
   <img src="https://img.shields.io/badge/Flask-1.1.2-black?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 </a>
 
-<!-- Python Badge -->
 <a href="https://www.python.org/downloads/" target="_blank">
   <img src="https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </a>
@@ -84,12 +80,10 @@ Manages file uploads, processes slides, and handles PDF generation.
 
 - ### PDF Generation:
 
-<!-- jsPDF Badge -->
 <a href="https://github.com/parallax/jsPDF" target="_blank">
   <img src="https://img.shields.io/badge/Library-jsPDF-%23323330?style=for-the-badge&logo=javascript&logoColor=white" alt="jsPDF">
 </a>
 
-<!-- ReportLab Badge -->
 <a href="https://www.reportlab.com/" target="_blank">
   <img src="https://img.shields.io/badge/Library-ReportLab-%233B3A39?style=for-the-badge&logo=python&logoColor=white" alt="ReportLab">
 </a>

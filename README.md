@@ -95,7 +95,7 @@ If you'd like to contribute, please follow these steps:
 
 ## License
 
-📜 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](https://github.com/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator/blob/main/LICENSE) file for more details.
+📜 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](https://github.com/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator/blob/main/LICENSE.txt) file for more details.
 
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 

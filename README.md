@@ -12,7 +12,7 @@
 
 ## Features 🎉
 
- <img align='right' src='https://github.com/Nupurpusha/Build-Your-Own-LinkedIn-Carousel-Generator/blob/main/animated.gif' height='200' width='200'>
+ <img align='right' src='https://github.com/Nupurpusha/Build-Your-Own-LinkedIn-Carousel-Generator/blob/main/animated.gif' height='250' width='250'>
  
 ![Last Commit](https://img.shields.io/github/last-commit/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator?style=flat-square) ![Stars](https://img.shields.io/github/stars/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator?style=social) ![License](https://img.shields.io/github/license/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator?style=flat-square)
 

@@ -36,8 +36,8 @@ This project is designed to be flexible, allowing for both frontend-only and ful
 
 - **Frontend**
 
-<img src="https://img.shields.io/badge/React-%E2%9C%94-brightgreen?style=for-the-badge&logo=react&logoColor=white" alt="React" style="margin: 10px;" width="200" height="50">
+<img src="https://img.shields.io/badge/React-%E2%9C%94-brightgreen?style=for-the-badge&logo=react&logoColor=white" alt="React">
 
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" style="margin: 10px;" width="200" height="50">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
 
 

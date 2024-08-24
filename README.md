@@ -10,18 +10,13 @@
 
 ## Features 
 
-<!-- Last Commit Badge -->
 <a href="https://github.com/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator/commits/main" target="_blank">
   <img src="https://img.shields.io/github/last-commit/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator?style=flat-square" alt="Last Commit">
 </a>
-
-<!-- Stars Badge -->
 <a href="https://github.com/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator/stargazers" target="_blank">
   <img src="https://img.shields.io/github/stars/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator?style=social" alt="Stars">
 </a>
-
-<!-- License Badge -->
-<a href="https://github.com/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator/blob/main/LICENSE" target="_blank">
+<a href="https://github.com/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator/blob/main/LICENSE.txt" target="_blank">
   <img src="https://img.shields.io/github/license/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator?style=flat-square" alt="License">
 </a>
 

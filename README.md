@@ -17,7 +17,7 @@ A tool to create customizable PDF carousels for LinkedIn posts or any other purp
 
 - **📄 Export to PDF:** Download your carousel as a high-quality PDF.  
 
-Ready to start? Check out the [Installation Guide](#installation) to get going! 🚀
+Ready to start? Check out the [Installation Guide](#installation-guide) to get going! 🚀
 
 ## Installation Guide 
 <p align="left">

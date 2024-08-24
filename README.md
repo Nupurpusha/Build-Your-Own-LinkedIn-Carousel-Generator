@@ -44,8 +44,9 @@ This project is designed to be flexible, allowing for both frontend-only and ful
 - **Backend**
   
    <img src="https://img.shields.io/badge/Flask-1.1.2-black?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-   
-    <img src="https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  
+
+
+  <img src="https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  Manages file uploads, processes slides, and handles PDF generation.
 
 

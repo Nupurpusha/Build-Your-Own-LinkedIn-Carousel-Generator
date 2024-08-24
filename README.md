@@ -3,7 +3,7 @@ A tool to create customizable PDF carousels for LinkedIn posts or any other purp
 
 ## Features 🎉
 
-![Last Commit](https://img.shields.io/github/last-commit/yourusername/linkedin-carousel-generator?style=flat-square) ![Stars](https://img.shields.io/github/stars/yourusername/linkedin-carousel-generator?style=social) ![License](https://img.shields.io/github/license/yourusername/linkedin-carousel-generator?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Nupurpusha/Build-Your-Linkedin-Carousel-Generator?style=flat-square) ![Stars](https://img.shields.io/github/stars/Nupurpusha/Build-Your-Linkedin-Carousel-Generator?style=social) ![License](https://img.shields.io/github/license/Nupurpusha/Build-Your-Linkedin-Carousel-Generator?style=flat-square)
 
 - **🖼️ Real-time Slide Preview:** Instantly see updates as you type.  
   ![Preview GIF](https://media.giphy.com/media/xUPGcsMtqZzZTTRg7a/giphy.gif)

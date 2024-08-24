@@ -19,3 +19,5 @@ A tool to create customizable PDF carousels for LinkedIn posts or any other purp
 
 Ready to start? Check out the [Installation Guide](#installation) to get going! 🚀
 
+## Installation Guide 
+

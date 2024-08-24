@@ -24,7 +24,7 @@ Ready to start? Check out the [Installation Guide](#installation) to get going! 
 <p align="left">
   <img src="https://github.com/Nupurpusha/Build-Your-Own-LinkedIn-Carousel-Generator/blob/main/carbon%20(1).png" 
        alt="LinkedIn Carousel Generator" 
-       style="float: left; height: 400px; width: 300px; margin-right: 10px;" />
+       style="float: left; height: 400px; width: 500px; margin-right: 10px;" />
 </p>
 
 

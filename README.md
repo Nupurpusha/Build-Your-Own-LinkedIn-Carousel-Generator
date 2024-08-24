@@ -54,5 +54,11 @@ This project is designed to be flexible, allowing for both frontend-only and ful
 <img src="https://img.shields.io/badge/Library-ReportLab-%233B3A39?style=for-the-badge&logo=python&logoColor=white" alt="ReportLab">
 Utilizes libraries such as jsPDF (JavaScript) or ReportLab (Python) to create the final document.
 
+## Future Enhancements
+- 📄 **Support for More Formats**: Add functionality to export carousels as PowerPoint (PPT/PPTX) or Word documents (DOC/DOCX).
+- 🔗 **LinkedIn API Integration**: Automate posting directly to LinkedIn.
+- 🖼️ **Templates**: Create and save reusable templates for different carousel styles.
+- 🤝 **Collaboration**: Enable multiple users to work on the same carousel project.
+
 
 

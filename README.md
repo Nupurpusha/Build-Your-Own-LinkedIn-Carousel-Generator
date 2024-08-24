@@ -4,7 +4,8 @@
     <p>A tool to create customizable PDF carousels for LinkedIn posts or any other purpose. This project focuses on creating a user-friendly interface that allows users to design slides, add text, images, and backgrounds, and export the final product as a PDF.</p>
   </div>
  </div>
-
+ 
+---
  
  <img align='right' src='https://github.com/Nupurpusha/Build-Your-Own-LinkedIn-Carousel-Generator/blob/main/animated.gif' width='200"'>
 

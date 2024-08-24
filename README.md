@@ -15,6 +15,7 @@
 
 <img align='right' src='https://github.com/Nupurpusha/Build-Your-Own-LinkedIn-Carousel-Generator/blob/main/Untitled design2.gif' height='250' width='250'>
 
+
 - **🖼️ Real-time Slide Preview:** Instantly see updates as you type. 
 
 - **👤 Profile Image & Name:** Upload a profile picture and display your name.  

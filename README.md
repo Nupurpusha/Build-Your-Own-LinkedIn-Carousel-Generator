@@ -24,8 +24,11 @@ Ready to start? Check out the [Installation Guide](#installation) to get going! 
   <img src="https://github.com/Nupurpusha/Build-Your-Own-LinkedIn-Carousel-Generator/blob/main/carbon%20(1).png" 
        alt="LinkedIn Carousel Generator" 
        style="float: left; height: 400px; width: 700px; margin-right: 10px;" /></p>
+       
 Open your web browser,for the frontend version navigate to http://localhost:5000. 
+
 For the frontend API, navigate to http://localhost:5000.
+
 For the backend API, navigate to http://localhost:5000.
 
 

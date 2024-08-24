@@ -11,7 +11,7 @@
 
 
 ## Features 🎉
-<img width="1160" height="535" src="https://dripify.io/wp-content/uploads/2022/04/50.png" class="img-fluid wp-post-image" alt="How to Create a LinkedIn Carousel [+Examples]" title="How to Create a LinkedIn Carousel [+Examples]" itemprop="image" decoding="async" fetchpriority="high" srcset="https://dripify.io/wp-content/uploads/2022/04/50.png 1161w, https://dripify.io/wp-content/uploads/2022/04/50-300x139.png 300w, https://dripify.io/wp-content/uploads/2022/04/50-1024x473.png 1024w, https://dripify.io/wp-content/uploads/2022/04/50-768x355.png 768w" sizes="(max-width: 1160px) 100vw, 1160px">
+<img align="right" width="300" height="300" src="https://dripify.io/wp-content/uploads/2022/04/50.png" class="img-fluid wp-post-image" alt="How to Create a LinkedIn Carousel [+Examples]" title="How to Create a LinkedIn Carousel [+Examples]" itemprop="image" decoding="async" fetchpriority="high" srcset="https://dripify.io/wp-content/uploads/2022/04/50.png 1161w, https://dripify.io/wp-content/uploads/2022/04/50-300x139.png 300w, https://dripify.io/wp-content/uploads/2022/04/50-1024x473.png 1024w, https://dripify.io/wp-content/uploads/2022/04/50-768x355.png 768w" sizes="(max-width: 300px) 100vw, 300px">
  //<img align='right' src='https://github.com/Nupurpusha/Build-Your-Own-LinkedIn-Carousel-Generator/blob/main/animated.gif' height='250' width='250'>//
  
 ![Last Commit](https://img.shields.io/github/last-commit/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator?style=flat-square) ![Stars](https://img.shields.io/github/stars/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator?style=social) ![License](https://img.shields.io/github/license/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator?style=flat-square)

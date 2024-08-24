@@ -31,4 +31,12 @@ For the frontend version, navigate to http://localhost:5000.
 
 For the backend API, navigate to http://localhost:5000.
 
+## Architecture
+This project is designed to be flexible, allowing for both frontend-only and full-stack implementations. Key components include:
+
+- **Frontend**
+![React](https://img.shields.io/badge/React-%E2%9C%94-brightgreen)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
+
+
 

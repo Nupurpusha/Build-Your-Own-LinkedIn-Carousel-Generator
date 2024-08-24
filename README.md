@@ -34,18 +34,25 @@ For the backend API, navigate to http://localhost:5000.
 ## Architecture
 This project is designed to be flexible, allowing for both frontend-only and full-stack implementations. Key components include:
 
-- **Frontend**
+- ### Frontend:
 
 <img src="https://img.shields.io/badge/React-%E2%9C%94-brightgreen?style=for-the-badge&logo=react&logoColor=white" alt="React">
 
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   Handles the GUI, slide creation, and real-time preview.
 
-- **Backend**
+- ### Backend:
   
 <img src="https://img.shields.io/badge/Flask-1.1.2-black?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 
 <img src="https://img.shields.io/badge/Python-3.8-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   Manages file uploads, processes slides, and handles PDF generation.
+
+- ### PDF Generation:
+<img src="https://img.shields.io/badge/Library-jsPDF-%23323330?style=for-the-badge&logo=javascript&logoColor=white" alt="jsPDF">
+
+<img src="https://img.shields.io/badge/Library-ReportLab-%233B3A39?style=for-the-badge&logo=python&logoColor=white" alt="ReportLab">
+Utilizes libraries such as jsPDF (JavaScript) or ReportLab (Python) to create the final document.
+
 
 

@@ -7,7 +7,7 @@
  
 ---
  
- <img align='right' src='https://github.com/Nupurpusha/Build-Your-Own-LinkedIn-Carousel-Generator/blob/main/animated.gif' width='200"'>
+ <img align='right' src='https://github.com/Nupurpusha/Build-Your-Own-LinkedIn-Carousel-Generator/blob/main/animated.gif' height='150px'width='200'>
 
 
 ## Features 🎉

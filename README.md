@@ -10,7 +10,21 @@
 
 ## Features 
 
-![Last Commit](https://img.shields.io/github/last-commit/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator?style=flat-square) ![Stars](https://img.shields.io/github/stars/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator?style=social) ![License](https://img.shields.io/github/license/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator?style=flat-square)
+<!-- Last Commit Badge -->
+<a href="https://github.com/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator/commits/main" target="_blank">
+  <img src="https://img.shields.io/github/last-commit/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator?style=flat-square" alt="Last Commit">
+</a>
+
+<!-- Stars Badge -->
+<a href="https://github.com/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator/stargazers" target="_blank">
+  <img src="https://img.shields.io/github/stars/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator?style=social" alt="Stars">
+</a>
+
+<!-- License Badge -->
+<a href="https://github.com/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator/blob/main/LICENSE" target="_blank">
+  <img src="https://img.shields.io/github/license/Nupurpusha/Build-Your-Own-Linkedin-Carousel-Generator?style=flat-square" alt="License">
+</a>
+
 <img align="right" src="https://github.com/Nupurpusha/Build-Your-Own-LinkedIn-Carousel-Generator/blob/main/Untitled%20design2.gif" height="350" width="450" alt="Linkedin-Corousel Generator">
 
 
